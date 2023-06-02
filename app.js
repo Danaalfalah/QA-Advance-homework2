@@ -1,3 +1,5 @@
+console.log(" Students Grade Marks")
+
 let studentsName=["Mahmoud","Dana","Zaid","Esmael"]
 let studentsMarks=[43,80,66,33]
 
